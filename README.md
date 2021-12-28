@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# React To Do App
+
+Practice new stack
+
+## Stack
+
+React (create-react-app), Styled-Components, TypeScript, Firebase
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
